@@ -40,7 +40,7 @@ export default {
     
     .images {
         position: relative;
-        margin: 0 2em 2em 0;
+        margin: 0 0 1em 1em;
         display: flex;
         flex-direction: column;
         align-items: center;
@@ -57,7 +57,7 @@ export default {
         width: 25px;
         background-color: #fda9b8;
         z-index: 1;
-        top:-7px; left: -7px;
+        top:-10px; left: -10px;
     }
     
     img {
@@ -70,6 +70,8 @@ export default {
     }
     
     .title {
+        margin-left: .3em;
+        font-size: 1.2em;
         visibility: hidden;
     }
 

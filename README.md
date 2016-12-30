@@ -21,7 +21,7 @@ A site to keep track orf the movies you have watched. The design on the site was
 
 ## Things to do
 
-- [ ] Make title look nicer
+- [x] Make title look nicer
 - [ ] Movie title animation?
 - [ ] Get imdb-api working
 - [ ] Images should link to imdb pages
