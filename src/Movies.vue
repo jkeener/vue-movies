@@ -42,7 +42,7 @@ export default {
             {img: 'https://goo.gl/2LJaDS',title: "Jackie Brown"},
             {img: 'https://goo.gl/NAae19',title: "Casablanca"},
             {img: 'https://goo.gl/EuKXBe',title: "The Third Man"},
-            {img: 'https://goo.gl/l3uqDB',title: "Le Samourai"},
+            {img: 'https://goo.gl/RIzgkg',title: "Le Samouraï"},
             {img: 'https://goo.gl/ZCG6IF',title: "Lawrence of Arabia"},
             {img: 'https://goo.gl/2OaDKC',title: "The Hustler"},
             {img: 'https://goo.gl/fEcSBn',title: "The Departed"},

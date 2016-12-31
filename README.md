@@ -1,6 +1,10 @@
 # vue-movies
 
-A site to keep track orf the movies you have watched. The design on the site was inspired by the Criterion Edition of La Dolce Vita. 
+A site to keep track orf the movies you have watched. The design on the site was inspired by the Criterion Edition of La Dolce Vita.
+
+## Sample Page
+
+[Our Movies](http://jameskeener.net/vue-movies/)
 
 ## Tools
 
