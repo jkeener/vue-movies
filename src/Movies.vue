@@ -116,14 +116,14 @@ export default {
         flex-wrap: wrap;
         justify-content: center;
     }
-    
+
     .inner-container {
         display: flex;
         flex-wrap: wrap;
         justify-content: center;
         margin: 1em;
     }
-    
+
     .images {
         position: relative;
         margin: 0 0 1.2em 1em;
@@ -131,11 +131,12 @@ export default {
         flex-direction: column;
         align-items: center;
     }
-    
+
     .images:hover .title {
-        visibility: visible;
+        opacity: 1;
+        transition: .8s all;
     }
-    
+
     .images:before {
         position: absolute;
         content: '';
@@ -145,22 +146,22 @@ export default {
         z-index: 1;
         top:-10px; left: -10px;
     }
-    
+
     img {
         filter: grayscale(100%);
         transition: .6s;
         height:300px;
         width:200px;
     }
-    
+
     img:hover {
         filter: grayscale(0);
     }
-    
+
     .title {
         margin: .3em;
         font-size: .8em;
-        visibility: hidden;
+        opacity: 0;
     }
 
 </style>
