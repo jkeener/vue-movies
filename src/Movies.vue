@@ -17,6 +17,7 @@ export default {
     return {
         movies: [
             //Add your images and captions here.
+            {img: 'https://goo.gl/WY4BpP',title: "Tokyo Story"},
             {img: 'https://goo.gl/unT8xp',title: "The Killer"},
             {img: 'https://goo.gl/BJ16O6',title: "La Dolce Vita"},
             {img: 'https://goo.gl/AUAuh3',title: "Harry Potter and the Prisoner..."},
