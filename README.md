@@ -27,6 +27,7 @@ A site to keep track orf the movies you have watched. The design on the site was
 - [x] Make title look nicer
 - [x] Movie title animation?
 - [ ] Automate adding movies
-- [ ] Images should link to imdb pages
+- [x] Images should link to imdb pages
 - [ ] Jump to bottom/top button
 - [ ] Sort functions
+- [x] Work on responsiveness
