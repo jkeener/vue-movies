@@ -31,3 +31,4 @@ A site to keep track orf the movies you have watched. The design on the site was
 - [ ] Jump to bottom/top button
 - [ ] Sort functions
 - [x] Work on responsiveness
+- [ ] Write script to shorten titles
