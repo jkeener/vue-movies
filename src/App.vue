@@ -164,8 +164,6 @@ table {
   box-sizing: border-box;
 }
 
-#app {}
-
 body {
   font-family: Roboto, sans-serif;
   font-size: 16px;

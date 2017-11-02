@@ -38,10 +38,22 @@ p {
   width: 90%
 }
 
+@media screen and (min-width: 800px) {
+  p {
+    width: 60%
+  }
+}
+
 @media screen and (min-width: 1100px) {
   .heading {
     width: 30%;
-    justify-content: flex-start;
+    align-self: flex-start;
+    position: sticky;
+    top: 0;
+    margin: 0;
+  }
+  p {
+    width: 90%
   }
 }
 
